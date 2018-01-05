@@ -3,7 +3,7 @@
 > Objective: Setup a honeypot and intercept some attempted attacks in the wild
 
 # Deployed Honeypot
-I deploye the - - - - Honeypot.
+I deployed Dionaea over HTTP, a honeypot used to trap malware samples.
 
 # Issues
 
