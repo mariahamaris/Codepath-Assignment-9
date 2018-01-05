@@ -23,6 +23,8 @@ There are currently 1154 attacks and this number is continuously increasing.
 
 While the majority of the attacks originated in the United States, there were also numerous attack originating from other countries.
 
+![honeypot](https://github.com/mariahamaris/Codepath-Assignment-9/blob/master/honeypot.PNG)
+
 The TOP 5 Attacker IPs:
   - 76.104.97.242 (1,041 attacks)
   - 119.191.58.91 (20 attacks)
