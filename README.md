@@ -5,19 +5,19 @@ Time spent: **8** hours spent in total
 > Objective: Setup a honeypot and intercept some attempted attacks in the wild
 
 
-**Deployed Honeypot** -
+###Deployed Honeypot -
 
 I deployed Dionaea over HTTP, a honeypot used to trap malware samples.
 
 
-**Issues** -
+###Issues -
 
 I had to manually allow HTTP traffic within the mhn-admin settings in order to access the mhn-admin external IP in a browser.
 
 I also ran into issues trying to download the data - I found the resolution at: https://discussions.codepath.com/courses/cybersecurity_university/questions/retrieving-session-json
 
 
-**Summary** -
+###Summary -
 
 There are currently 1154 attacks and this number is continuously increasing.
 
@@ -37,4 +37,4 @@ The TOP 5 Attacked ports:
   - 445 (7 times)
   - 5950 (4 times)
 
-The full data is contained within the repository [here](https://github.com/mariahamaris/Codepath-Assignment-9/blob/master/session.json)
+The full data is contained within the repository [here](https://github.com/mariahamaris/Codepath-Assignment-9/blob/master/session.json).
