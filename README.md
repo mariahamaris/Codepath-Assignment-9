@@ -24,17 +24,17 @@ There are currently 1154 attacks and this number is continuously increasing.
 While the majority of the attacks originated in the United States, there were also numerous attack originating from other countries.
 
 The TOP 5 Attacker IPs:
-  >76.104.97.242 (1,041 attacks)
-  >119.191.58.91 (20 attacks)
-  -191.101.167.7 (12 attacks)
-  -77.72.82.147 (4 attacks)
-  -95.215.1.37 (4 attacks)
+  - 76.104.97.242 (1,041 attacks)
+  - 119.191.58.91 (20 attacks)
+  - 191.101.167.7 (12 attacks)
+  - 77.72.82.147 (4 attacks)
+  - 95.215.1.37 (4 attacks)
   
 The TOP 5 Attacked ports:
-  -23 (31 times)
-  -3306 (21 times)
-  -80 (8 times)
-  -445 (7 times)
-  -5950 (4 times)
+  - 23 (31 times)
+  - 3306 (21 times)
+  - 80 (8 times)
+  - 445 (7 times)
+  - 5950 (4 times)
 
 The full data is contained within the repository [here](https://github.com/mariahamaris/Codepath-Assignment-9/blob/master/session.json)
